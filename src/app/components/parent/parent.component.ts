@@ -5,11 +5,11 @@ import { ApiService } from 'src/app/services/api.service';
 import { ApiType } from 'src/app/types/api.type';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.scss']
+  selector: 'app-parent',
+  templateUrl: './parent.component.html',
+  styleUrls: ['./parent.component.scss']
 })
-export class HomeComponent {
+export class ParentComponent {
 
   apiRes?: ApiType;
   apiId?: string;
