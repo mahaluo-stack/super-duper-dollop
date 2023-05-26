@@ -1,0 +1,13 @@
+<div style="display: flex;">
+    <h1 id="drinksHeader" style="padding: 0; margin: 5vh auto; color: white;">
+        {{ (loading === false ? headerTitle : 'fetching dessert.. ') }}
+    </h1>
+</div>
+
+<div class="wrapper">
+    <div class="recipeItem" *ngFor="let recipe of recipeNames">
+        {{ recipe.name }}
+    </div>
+
+    <app-child [apiRes]="apiRes" [loading]="loading"></app-child>
+</div>

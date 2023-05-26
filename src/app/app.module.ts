@@ -1,22 +1,31 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { RouterModule } from '@angular/router';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ParentComponent } from './components/parent/parent.component';
-import { ChildComponent } from './components/child/child.component';
+import { DessertsModule, DrinksModule, DessertsComponent, DrinksComponent } from './features';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    ParentComponent,
-    ChildComponent
+    AppComponent  
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    DessertsModule,
+    DrinksModule,
+    RouterModule.forChild([
+      {
+        path: 'desserts/:id',
+        component: DessertsComponent
+      },
+      {
+        path: 'drinks/:id',
+        component: DrinksComponent
+      }
+    ])
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}

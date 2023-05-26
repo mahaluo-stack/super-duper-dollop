@@ -1,0 +1,229 @@
+{
+  "desserts": [
+    {
+      "id": "234521",
+      "name": "Chocolate Lava Cake",
+      "ingredients": [
+        "4 ounces (113 grams) of semi-sweet chocolate",
+        "1/2 cup (1 stick or 113 grams) of unsalted butter",
+        "1 cup (200 grams) of granulated sugar",
+        "2 large eggs",
+        "2 large egg yolks",
+        "1 teaspoon of vanilla extract",
+        "1/4 teaspoon of salt",
+        "1/2 cup (60 grams) of all-purpose flour",
+        "Optional: Powdered sugar or vanilla ice cream for garnish"
+      ],
+      "instructions": [
+        "Preheat your oven to 425°F (220°C). Grease and lightly flour four individual ramekins or custard cups.",
+        "In a microwave-safe bowl, melt the semi-sweet chocolate and butter together. You can microwave them in 30-second intervals, stirring in between until fully melted. Alternatively, you can melt them in a double boiler on the stove.",
+        "In a separate mixing bowl, whisk together the granulated sugar, eggs, egg yolks, vanilla extract, and salt until well combined.",
+        "Slowly pour the melted chocolate and butter mixture into the egg mixture, stirring continuously.",
+        "Gradually add the all-purpose flour to the mixture and stir until the batter is smooth and well incorporated.",
+        "Divide the batter equally among the prepared ramekins or custard cups.",
+        "Place the ramekins on a baking sheet and bake in the preheated oven for about 12-14 minutes. The edges of the cakes should be set, but the centers will still be slightly soft.",
+        "Remove the ramekins from the oven and let them cool for a couple of minutes. You can run a knife around the edges to loosen the cakes, then invert them onto serving plates.",
+        "Dust the cakes with powdered sugar and serve them warm. You can also add a scoop of vanilla ice cream or whipped cream as a garnish if desired.",
+        "Enjoy your homemade chocolate lava cakes!"
+      ]
+    },
+    {
+      "id": "115329",
+      "name": "Berry Parfait",
+      "ingredients": [
+        "1 cup (240 grams) of Greek yogurt",
+        "2 tablespoons of honey",
+        "1 cup of mixed berries (strawberries, blueberries, raspberries)",
+        "1/4 cup (30 grams) of granola",
+        "Fresh mint leaves for garnish"
+      ],
+      "instructions": [
+        "In a bowl, mix the Greek yogurt and honey until well combined.",
+        "In serving glasses or bowls, layer the yogurt mixture, mixed berries, and granola.",
+        "Repeat the layers until all the ingredients are used, finishing with a layer of mixed berries and granola on top.",
+        "Garnish with fresh mint leaves.",
+        "Refrigerate for at least 1 hour before serving to allow the flavors to meld together.",
+        "Serve chilled and enjoy this refreshing berry parfait!"
+      ]
+    },
+    {
+      "id": "356753",
+      "name": "Vanilla Cupcakes",
+      "ingredients": [
+        "1 1/2 cups (190 grams) of all-purpose flour",
+        "1 1/2 teaspoons of baking powder",
+        "1/4 teaspoon of salt",
+        "1/2 cup (1 stick or 113 grams) of unsalted butter, softened",
+        "1 cup (200 grams) of granulated sugar",
+        "2 large eggs",
+        "1 teaspoon of vanilla extract",
+        "3/4 cup (180 ml) of milk"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Line a cupcake pan with paper liners.",
+        "In a mixing bowl, whisk together the flour, baking powder, and salt.",
+        "In a separate large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the eggs, one at a time, followed by the vanilla extract.",
+        "Gradually add the dry ingredients to the butter mixture, alternating with the milk. Begin and end with the dry ingredients, mixing until just combined.",
+        "Divide the batter evenly among the cupcake liners, filling each about two-thirds full.",
+        "Bake in the preheated oven for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+        "Remove the cupcakes from the pan and let them cool completely on a wire rack.",
+        "Once cooled, frost the cupcakes with your favorite frosting and decorate as desired.",
+        "Enjoy these delightful vanilla cupcakes!"
+      ]
+    },
+    {
+      "id": "987654",
+      "name": "Strawberry Shortcake",
+      "ingredients": [
+        "2 cups (250 grams) of all-purpose flour",
+        "1/4 cup (50 grams) of granulated sugar",
+        "1 tablespoon of baking powder",
+        "1/2 teaspoon of salt",
+        "1/2 cup (1 stick or 113 grams) of cold unsalted butter, cubed",
+        "3/4 cup (180 ml) of cold milk",
+        "1 teaspoon of vanilla extract",
+        "2 cups of fresh strawberries, sliced",
+        "1 cup of whipped cream"
+      ],
+      "instructions": [
+        "Preheat your oven to 425°F (220°C).",
+        "In a mixing bowl, combine the flour, sugar, baking powder, and salt.",
+        "Add the cold cubed butter to the flour mixture. Use a pastry cutter or your fingertips to cut the butter into the flour until it resembles coarse crumbs.",
+        "Pour in the cold milk and vanilla extract. Stir until just combined. Do not overmix; the dough will be slightly sticky.",
+        "Transfer the dough to a lightly floured surface and gently knead it a few times to bring it together. Pat the dough into a 1-inch thick rectangle.",
+        "Using a round biscuit cutter, cut out shortcakes from the dough and place them on a baking sheet lined with parchment paper.",
+        "Bake in the preheated oven for 12-15 minutes or until the shortcakes are golden brown.",
+        "Remove the shortcakes from the oven and let them cool on a wire rack.",
+        "To assemble the strawberry shortcakes, split the shortcakes in half horizontally. Fill each bottom half with sliced strawberries and a dollop of whipped cream. Place the top half of the shortcake on the filling.",
+        "Serve the strawberry shortcakes immediately and enjoy!"
+      ]
+    },
+    {
+      "id": "246810",
+      "name": "Blueberry Cheesecake",
+      "ingredients": [
+        "1 1/2 cups (150 grams) of graham cracker crumbs",
+        "1/4 cup (50 grams) of granulated sugar",
+        "1/2 cup (1 stick or 113 grams) of unsalted butter, melted",
+        "2 cups (450 grams) of cream cheese, softened",
+        "1 cup (200 grams) of granulated sugar",
+        "1 teaspoon of vanilla extract",
+        "3 large eggs",
+        "2 cups of fresh blueberries",
+        "1/4 cup (30 grams) of all-purpose flour"
+      ],
+      "instructions": [
+        "Preheat your oven to 325°F (160°C). Grease the bottom of a 9-inch springform pan.",
+        "In a mixing bowl, combine the graham cracker crumbs, sugar, and melted butter. Press the mixture evenly into the bottom of the prepared pan to form the crust.",
+        "In a separate mixing bowl, beat the cream cheese, sugar, and vanilla extract until smooth and creamy.",
+        "Add the eggs, one at a time, beating well after each addition.",
+        "In a small bowl, toss the blueberries with flour until coated. Gently fold the blueberries into the cream cheese mixture.",
+        "Pour the cream cheese mixture over the crust in the springform pan.",
+        "Bake in the preheated oven for 60-70 minutes or until the center is set and the top is lightly browned.",
+        "Remove the cheesecake from the oven and let it cool in the pan for 10 minutes. Then, run a knife around the edges to loosen the cheesecake.",
+        "Refrigerate the cheesecake for at least 4 hours or overnight to allow it to set completely.",
+        "Before serving, remove the sides of the springform pan and transfer the cheesecake to a serving plate.",
+        "Slice and serve the delicious blueberry cheesecake!"
+      ]
+    }
+  ],  
+  "drinks": [
+    {
+      "id": "453289",
+      "name": "Mojito",
+      "ingredients": [
+        "2 ounces (60 ml) of white rum",
+        "1 ounce (30 ml) of fresh lime juice",
+        "2 teaspoons of granulated sugar",
+        "6-8 fresh mint leaves",
+        "Club soda or sparkling water",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "In a glass, muddle the mint leaves and sugar together to release the mint oils.",
+        "Add the fresh lime juice and muddle a bit more to dissolve the sugar.",
+        "Fill the glass with ice cubes and pour in the white rum.",
+        "Top off with club soda or sparkling water.",
+        "Stir gently to combine the ingredients.",
+        "Garnish with a sprig of fresh mint and a lime wedge, if desired.",
+        "Enjoy your refreshing mojito!"
+      ]
+    },
+    {
+      "id": "623411",
+      "name": "Piña Colada",
+      "ingredients": [
+        "2 ounces (60 ml) of white rum",
+        "4 ounces (120 ml) of pineapple juice",
+        "2 ounces (60 ml) of coconut cream",
+        "1 cup of ice cubes",
+        "Pineapple slices and maraschino cherries for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the white rum, pineapple juice, coconut cream, and ice cubes.",
+        "Blend until smooth and creamy.",
+        "Pour into a glass and garnish with pineapple slices and maraschino cherries.",
+        "Serve chilled and enjoy your tropical piña colada!"
+      ]
+    },
+    {
+      "id": "764219",
+      "name": "Margarita",
+      "ingredients": [
+        "2 ounces (60 ml) of tequila",
+        "1 ounce (30 ml) of fresh lime juice",
+        "1 ounce (30 ml) of triple sec",
+        "1 teaspoon of agave nectar or simple syrup",
+        "Salt for rimming the glass",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Rim the glass with salt by running a lime wedge around the rim and dipping it in salt.",
+        "In a shaker, combine the tequila, fresh lime juice, triple sec, agave nectar or simple syrup, and ice cubes.",
+        "Shake vigorously for about 15-20 seconds.",
+        "Fill the salt-rimmed glass with ice cubes and strain the margarita into the glass.",
+        "Garnish with a lime wedge.",
+        "Enjoy your classic margarita!"
+      ]
+    },
+    {
+      "id": "925631",
+      "name": "Old Fashioned",
+      "ingredients": [
+        "2 ounces (60 ml) of bourbon or rye whiskey",
+        "1 sugar cube or 1 teaspoon of granulated sugar",
+        "2-3 dashes of Angostura bitters",
+        "1-2 orange peel twists",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Place the sugar cube or granulated sugar in a glass.",
+        "Add the dashes of Angostura bitters and muddle together to dissolve the sugar.",
+        "Add a few ice cubes to the glass.",
+        "Pour in the bourbon or rye whiskey.",
+        "Stir gently to combine the ingredients.",
+        "Express the oils from the orange peel twists over the drink and drop them into the glass.",
+        "Enjoy your classic old fashioned!"
+      ]
+    },
+    {
+      "id": "235781",
+      "name": "Gin and Tonic",
+      "ingredients": [
+        "2 ounces (60 ml) of gin",
+        "4-6 ounces (120-180 ml) of tonic water",
+        "Lime wedges or slices for garnish",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Fill a glass with ice cubes.",
+        "Pour in the gin.",
+        "Top off with tonic water.",
+        "Stir gently to mix the ingredients.",
+        "Garnish with lime wedges or slices.",
+        "Enjoy your refreshing gin and tonic!"
+      ]
+    }
+  ]
+}

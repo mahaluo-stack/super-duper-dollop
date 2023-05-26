@@ -1,5 +1,5 @@
 import { Component, Input } from '@angular/core';
-import { ApiType } from 'src/app/types/api.type';
+import { RecipeType } from 'src/app/types';
 
 @Component({
   selector: 'app-child',
@@ -8,5 +8,6 @@ import { ApiType } from 'src/app/types/api.type';
 })
 export class ChildComponent {
 
-    @Input() apiRes?: ApiType;
+    @Input() apiRes?: RecipeType;
+    @Input() loading: boolean = true;
 }
