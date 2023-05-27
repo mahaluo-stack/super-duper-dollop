@@ -10,7 +10,7 @@ export class RedirectGuard implements CanActivate {
   canActivate(): UrlTree {
     //targetRoute and id would be queryParameters
     const targetRoute = '/desserts/';
-    const id = '234521';
+    const id = '000007';
 
     return this.router.createUrlTree([targetRoute + id]);
   }
