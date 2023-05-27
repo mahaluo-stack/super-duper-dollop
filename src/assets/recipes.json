@@ -1,0 +1,690 @@
+{
+  "cakes": [
+    {
+      "id": "267891",
+      "name": "Lemon Blueberry Cake",
+      "ingredients": [
+        "2 1/2 cups (315 grams) of all-purpose flour",
+        "2 1/2 teaspoons of baking powder",
+        "1/2 teaspoon of salt",
+        "1 cup (2 sticks or 226 grams) of unsalted butter, softened",
+        "1 1/2 cups (300 grams) of granulated sugar",
+        "4 large eggs",
+        "2 teaspoons of vanilla extract",
+        "3/4 cup (180 ml) of milk",
+        "Zest of 2 lemons",
+        "2 cups of fresh blueberries",
+        "Optional: Lemon glaze or cream cheese frosting for decoration"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour a 9x13-inch baking pan.",
+        "In a mixing bowl, whisk together the flour, baking powder, and salt.",
+        "In a separate large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the eggs, one at a time, followed by the vanilla extract.",
+        "Add the dry ingredients to the butter mixture alternately with the milk, beginning and ending with the dry ingredients. Mix until just combined.",
+        "Fold in the lemon zest and blueberries gently.",
+        "Pour the batter into the prepared baking pan and spread it evenly.",
+        "Bake in the preheated oven for 45 to 50 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+        "Transfer the cake to a wire rack to cool completely.",
+        "Once cooled, drizzle the lemon glaze over the cake or frost with cream cheese frosting if desired.",
+        "Enjoy your delicious lemon blueberry cake!"
+      ]
+    },
+    {
+      "id": "908172",
+      "name": "Banana Bread Cake",
+      "ingredients": [
+        "2 cups (250 grams) of all-purpose flour",
+        "1 teaspoon of baking soda",
+        "1/4 teaspoon of salt",
+        "1/2 cup (1 stick or 113 grams) of unsalted butter, softened",
+        "1 cup (200 grams) of granulated sugar",
+        "2 large eggs",
+        "1 teaspoon of vanilla extract",
+        "3 ripe bananas, mashed",
+        "1/2 cup (120 ml) of buttermilk",
+        "Optional: Chopped walnuts or chocolate chips for added texture and flavor"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan.",
+        "In a mixing bowl, whisk together the flour, baking soda, and salt.",
+        "In a separate large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the eggs, one at a time, followed by the vanilla extract.",
+        "Add the mashed bananas to the butter mixture and mix well.",
+        "Gradually add the dry ingredients to the butter mixture, alternating with the buttermilk. Begin and end with the dry ingredients, mixing until just combined.",
+        "Fold in the chopped walnuts or chocolate chips if desired.",
+        "Pour the batter into the prepared cake pan and spread it evenly.",
+        "Bake in the preheated oven for 35 to 40 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+        "Transfer the cake to a wire rack to cool completely.",
+        "Once cooled, you can dust the cake with powdered sugar or frost it with your favorite icing if desired.",
+        "Enjoy your delicious banana bread cake!"
+      ]
+    },
+    {
+      "id": "543216",
+      "name": "Coconut Cake",
+      "ingredients": [
+        "2 3/4 cups (345 grams) of cake flour",
+        "1 tablespoon of baking powder",
+        "1/2 teaspoon of salt",
+        "1 cup (2 sticks or 226 grams) of unsalted butter, softened",
+        "2 cups (400 grams) of granulated sugar",
+        "4 large eggs",
+        "1 teaspoon of vanilla extract",
+        "1 cup (240 ml) of coconut milk",
+        "1/2 cup (120 ml) of buttermilk",
+        "2 cups of sweetened shredded coconut",
+        "Optional: Cream cheese frosting or coconut frosting for decoration"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+        "In a mixing bowl, sift together the cake flour, baking powder, and salt.",
+        "In a separate large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the eggs, one at a time, followed by the vanilla extract.",
+        "Add the dry ingredients to the butter mixture alternately with the coconut milk and buttermilk, beginning and ending with the dry ingredients. Mix until just combined.",
+        "Fold in the shredded coconut gently.",
+        "Pour the batter evenly into the prepared cake pans.",
+        "Bake in the preheated oven for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove the cakes from the oven and let them cool in the pans for 10 minutes.",
+        "Transfer the cakes to a wire rack to cool completely.",
+        "Once cooled, frost the cakes with cream cheese frosting or coconut frosting and decorate as desired.",
+        "Enjoy your delicious coconut cake!"
+      ]
+    },
+    {
+      "id": "123456",
+      "name": "Chocolate Ganache Cake",
+      "ingredients": [
+        "2 cups (250 grams) of all-purpose flour",
+        "2 cups (400 grams) of granulated sugar",
+        "3/4 cup (90 grams) of unsweetened cocoa powder",
+        "1 1/2 teaspoons of baking powder",
+        "1 1/2 teaspoons of baking soda",
+        "1 teaspoon of salt",
+        "2 large eggs",
+        "1 cup (240 ml) of milk",
+        "1/2 cup (120 ml) of vegetable oil",
+        "2 teaspoons of vanilla extract",
+        "1 cup (240 ml) of boiling water",
+        "For the ganache: 1 cup (240 ml) of heavy cream and 8 ounces (227 grams) of dark chocolate, chopped"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+        "In a large mixing bowl, sift together the flour, sugar, cocoa powder, baking powder, baking soda, and salt.",
+        "Add the eggs, milk, vegetable oil, and vanilla extract to the dry ingredients. Mix until well combined.",
+        "Pour the boiling water into the batter and stir until smooth. The batter will be thin, but that's okay.",
+        "Divide the batter evenly between the prepared cake pans.",
+        "Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove the cakes from the oven and let them cool in the pans for 10 minutes.",
+        "Transfer the cakes to a wire rack to cool completely.",
+        "To make the ganache, heat the heavy cream in a saucepan over medium heat until it just begins to simmer. Remove from heat.",
+        "Add the chopped dark chocolate to the hot cream and let it sit for a minute to melt. Stir until smooth and glossy.",
+        "Let the ganache cool for about 15 minutes until it thickens slightly.",
+        "Place one cake layer on a serving plate and pour some of the ganache over it, allowing it to drip down the sides.",
+        "Place the second cake layer on top and pour the remaining ganache over the cake, spreading it evenly on the top and sides.",
+        "Refrigerate the cake for about 30 minutes to set the ganache.",
+        "Enjoy your indulgent chocolate ganache cake!"
+      ]
+    },
+    {
+      "id": "789012",
+      "name": "Red Velvet Cake",
+      "ingredients": [
+        "2 1/2 cups (315 grams) of cake flour",
+        "2 tablespoons of unsweetened cocoa powder",
+        "1 teaspoon of baking soda",
+        "1/2 teaspoon of salt",
+        "1/2 cup (1 stick or 113 grams) of unsalted butter, softened",
+        "1 1/2 cups (300 grams) of granulated sugar",
+        "2 large eggs",
+        "1 teaspoon of vanilla extract",
+        "1 cup (240 ml) of buttermilk",
+        "1 tablespoon of red food coloring",
+        "1 teaspoon of white vinegar",
+        "1 teaspoon of baking powder",
+        "Cream cheese frosting for decoration"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans.",
+        "In a mixing bowl, sift together the cake flour, cocoa powder, baking soda, and salt.",
+        "In a separate large bowl, cream together the softened butter and granulated sugar until light and fluffy.",
+        "Beat in the eggs, one at a time, followed by the vanilla extract.",
+        "Add the dry ingredients to the butter mixture alternately with the buttermilk, beginning and ending with the dry ingredients. Mix until just combined.",
+        "In a small bowl, mix the red food coloring and vinegar together, then add it to the cake batter. Stir until well incorporated.",
+        "In a separate small bowl, whisk together the baking powder and a little bit of water. Add this mixture to the cake batter and stir until combined.",
+        "Divide the batter evenly between the prepared cake pans.",
+        "Bake in the preheated oven for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+        "Remove the cakes from the oven and let them cool in the pans for 10 minutes.",
+        "Transfer the cakes to a wire rack to cool completely.",
+        "Once cooled, frost the cakes with cream cheese frosting and decorate as desired.",
+        "Enjoy your classic red velvet cake!"
+      ]
+    }
+  ],
+  "frozen_treats": [
+    {
+      "id": "234521",
+      "name": "Strawberry Sorbet",
+      "ingredients": [
+        "2 cups (300 grams) of fresh strawberries, hulled and halved",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (60 ml) of water",
+        "1 tablespoon of lemon juice"
+      ],
+      "instructions": [
+        "Place the strawberries, sugar, water, and lemon juice in a blender or food processor.",
+        "Blend until smooth and well combined.",
+        "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+        "Transfer the sorbet to an airtight container and freeze for a few hours to firm up.",
+        "Serve the strawberry sorbet in bowls or cones and enjoy!"
+      ]
+    },
+    {
+      "id": "115329",
+      "name": "Mango Popsicles",
+      "ingredients": [
+        "2 ripe mangoes, peeled and pitted",
+        "1/4 cup (50 grams) of granulated sugar",
+        "1/2 cup (120 ml) of coconut milk",
+        "1 tablespoon of lime juice"
+      ],
+      "instructions": [
+        "Place the mangoes, sugar, coconut milk, and lime juice in a blender or food processor.",
+        "Blend until smooth and creamy.",
+        "Pour the mixture into popsicle molds.",
+        "Insert popsicle sticks into each mold.",
+        "Freeze the popsicles for at least 4-6 hours or until solid.",
+        "To remove the popsicles from the molds, run them under warm water for a few seconds.",
+        "Serve the refreshing mango popsicles and enjoy!"
+      ]
+    },
+    {
+      "id": "356753",
+      "name": "Cookies and Cream Ice Cream",
+      "ingredients": [
+        "2 cups (480 ml) of heavy cream",
+        "1 cup (240 ml) of whole milk",
+        "3/4 cup (150 grams) of granulated sugar",
+        "2 teaspoons of vanilla extract",
+        "1 1/2 cups (180 grams) of crushed chocolate sandwich cookies"
+      ],
+      "instructions": [
+        "In a mixing bowl, whisk together the heavy cream, whole milk, sugar, and vanilla extract until the sugar is dissolved.",
+        "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+        "During the last few minutes of churning, add the crushed chocolate sandwich cookies and continue churning until well mixed.",
+        "Transfer the ice cream to a lidded container, layering with additional crushed cookies if desired.",
+        "Freeze the ice cream for a few hours or until firm.",
+        "Scoop the cookies and cream ice cream into bowls or cones and enjoy!"
+      ]
+    },
+    {
+      "id": "987654",
+      "name": "Watermelon Granita",
+      "ingredients": [
+        "4 cups (600 grams) of cubed seedless watermelon",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (60 ml) of fresh lime juice"
+      ],
+      "instructions": [
+        "Place the watermelon cubes, sugar, and lime juice in a blender or food processor.",
+        "Blend until smooth.",
+        "Pour the mixture into a shallow dish or baking pan.",
+        "Place the dish in the freezer and let it freeze for 1 hour.",
+        "After 1 hour, remove the dish from the freezer and scrape the mixture with a fork to break up any ice crystals.",
+        "Return the dish to the freezer and repeat the scraping process every 30 minutes for about 3-4 hours or until the granita is icy and flaky.",
+        "Serve the watermelon granita in glasses or bowls and enjoy!"
+      ]
+    },
+    {
+      "id": "246810",
+      "name": "Chocolate Dipped Frozen Bananas",
+      "ingredients": [
+        "4 ripe bananas",
+        "8 ounces (226 grams) of dark chocolate, chopped",
+        "2 tablespoons of coconut oil",
+        "Assorted toppings: chopped nuts, sprinkles, shredded coconut, etc."
+      ],
+      "instructions": [
+        "Peel the bananas and cut them in half crosswise.",
+        "Insert a popsicle stick into each banana half, creating a banana popsicle.",
+        "Place the banana popsicles on a baking sheet lined with parchment paper and freeze for about 2 hours or until firm.",
+        "In a microwave-safe bowl, combine the chopped dark chocolate and coconut oil.",
+        "Microwave in 30-second intervals, stirring in between, until the chocolate is melted and smooth.",
+        "Dip each frozen banana popsicle into the melted chocolate, allowing any excess to drip off.",
+        "Sprinkle the dipped bananas with your favorite toppings before the chocolate sets.",
+        "Place the dipped bananas back on the parchment-lined baking sheet and freeze for an additional 30 minutes or until the chocolate is firm.",
+        "Serve the chocolate-dipped frozen bananas as a delightful frozen treat!"
+      ]
+    }
+  ],
+  "puddings": [
+    {
+      "id": "234521",
+      "name": "Classic Vanilla Pudding",
+      "ingredients": [
+        "2 cups (480 ml) of whole milk",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (30 grams) of cornstarch",
+        "1/4 teaspoon of salt",
+        "2 large egg yolks",
+        "2 tablespoons of unsalted butter",
+        "1 teaspoon of vanilla extract"
+      ],
+      "instructions": [
+        "In a medium saucepan, whisk together the milk, sugar, cornstarch, and salt.",
+        "Place the saucepan over medium heat and cook, stirring constantly, until the mixture thickens and comes to a boil.",
+        "In a separate bowl, whisk the egg yolks. Slowly pour about half of the hot milk mixture into the egg yolks while whisking constantly.",
+        "Pour the egg yolk mixture back into the saucepan and continue cooking over medium heat, stirring constantly, until the pudding is thickened and smooth.",
+        "Remove the saucepan from heat and stir in the butter and vanilla extract until fully incorporated.",
+        "Pour the pudding into individual serving dishes or a large bowl. Press plastic wrap directly onto the surface of the pudding to prevent a skin from forming.",
+        "Refrigerate for at least 2 hours or until chilled and set.",
+        "Serve the classic vanilla pudding chilled and enjoy!"
+      ]
+    },
+    {
+      "id": "115329",
+      "name": "Chocolate Custard",
+      "ingredients": [
+        "2 cups (480 ml) of whole milk",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (30 grams) of unsweetened cocoa powder",
+        "3 tablespoons of cornstarch",
+        "1/4 teaspoon of salt",
+        "3 large egg yolks",
+        "2 tablespoons of unsalted butter",
+        "1 teaspoon of vanilla extract"
+      ],
+      "instructions": [
+        "In a medium saucepan, whisk together the milk, sugar, cocoa powder, cornstarch, and salt.",
+        "Place the saucepan over medium heat and cook, stirring constantly, until the mixture thickens and comes to a boil.",
+        "In a separate bowl, whisk the egg yolks. Slowly pour about half of the hot milk mixture into the egg yolks while whisking constantly.",
+        "Pour the egg yolk mixture back into the saucepan and continue cooking over medium heat, stirring constantly, until the custard is thickened and smooth.",
+        "Remove the saucepan from heat and stir in the butter and vanilla extract until fully incorporated.",
+        "Pour the chocolate custard into individual serving dishes or a large bowl. Press plastic wrap directly onto the surface of the custard to prevent a skin from forming.",
+        "Refrigerate for at least 2 hours or until chilled and set.",
+        "Serve the chocolate custard chilled and enjoy!"
+      ]
+    },
+    {
+      "id": "356753",
+      "name": "Banana Pudding",
+      "ingredients": [
+        "2 cups (480 ml) of whole milk",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (30 grams) of cornstarch",
+        "1/4 teaspoon of salt",
+        "2 large egg yolks",
+        "2 tablespoons of unsalted butter",
+        "1 teaspoon of vanilla extract",
+        "3 ripe bananas, sliced",
+        "1 box (11 ounces or 312 grams) of vanilla wafer cookies",
+        "Whipped cream for topping (optional)"
+      ],
+      "instructions": [
+        "In a medium saucepan, whisk together the milk, sugar, cornstarch, and salt.",
+        "Place the saucepan over medium heat and cook, stirring constantly, until the mixture thickens and comes to a boil.",
+        "In a separate bowl, whisk the egg yolks. Slowly pour about half of the hot milk mixture into the egg yolks while whisking constantly.",
+        "Pour the egg yolk mixture back into the saucepan and continue cooking over medium heat, stirring constantly, until the pudding is thickened and smooth.",
+        "Remove the saucepan from heat and stir in the butter and vanilla extract until fully incorporated.",
+        "In a serving dish or individual dessert cups, layer the sliced bananas, vanilla wafer cookies, and pudding. Repeat the layers as desired, ending with a layer of pudding on top.",
+        "Cover the pudding with plastic wrap, making sure the wrap touches the surface to prevent a skin from forming.",
+        "Refrigerate for at least 2 hours or until chilled and set.",
+        "Before serving, you can top the banana pudding with whipped cream if desired.",
+        "Serve the banana pudding chilled and enjoy!"
+      ]
+    },
+    {
+      "id": "987654",
+      "name": "Rice Pudding",
+      "ingredients": [
+        "1 cup (200 grams) of white rice",
+        "4 cups (960 ml) of whole milk",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 teaspoon of salt",
+        "1 teaspoon of vanilla extract",
+        "1/2 teaspoon of ground cinnamon",
+        "1/4 teaspoon of ground nutmeg",
+        "1/2 cup (75 grams) of raisins (optional)"
+      ],
+      "instructions": [
+        "In a large saucepan, combine the rice, milk, sugar, and salt.",
+        "Place the saucepan over medium heat and bring the mixture to a simmer, stirring occasionally.",
+        "Reduce the heat to low and cover the saucepan with a lid. Let the rice cook for about 20-25 minutes, or until the rice is tender and most of the liquid is absorbed, stirring occasionally.",
+        "Stir in the vanilla extract, ground cinnamon, ground nutmeg, and raisins (if using). Cook for an additional 5 minutes, stirring occasionally.",
+        "Remove the saucepan from heat and let the rice pudding cool slightly.",
+        "Serve the rice pudding warm or chilled. You can sprinkle some additional cinnamon on top if desired.",
+        "Enjoy the delicious rice pudding!"
+      ]
+    },
+    {
+      "id": "246810",
+      "name": "Strawberry Custard Tart",
+      "ingredients": [
+        "1 pre-made pie crust",
+        "2 cups (480 ml) of whole milk",
+        "1/2 cup (100 grams) of granulated sugar",
+        "1/4 cup (30 grams) of cornstarch",
+        "1/4 teaspoon of salt",
+        "3 large egg yolks",
+        "2 tablespoons of unsalted butter",
+        "1 teaspoon of vanilla extract",
+        "2 cups of fresh strawberries, sliced",
+        "1/4 cup (60 ml) of strawberry jam, warmed"
+      ],
+      "instructions": [
+        "Preheat your oven according to the instructions on the pre-made pie crust packaging.",
+        "Press the pre-made pie crust into a tart pan or a pie dish, following the package instructions.",
+        "In a medium saucepan, whisk together the milk, sugar, cornstarch, and salt.",
+        "Place the saucepan over medium heat and cook, stirring constantly, until the mixture thickens and comes to a boil.",
+        "In a separate bowl, whisk the egg yolks. Slowly pour about half of the hot milk mixture into the egg yolks while whisking constantly.",
+        "Pour the egg yolk mixture back into the saucepan and continue cooking over medium heat, stirring constantly, until the custard is thickened and smooth.",
+        "Remove the saucepan from heat and stir in the butter and vanilla extract until fully incorporated.",
+        "Pour the custard into the pre-made pie crust.",
+        "Arrange the sliced strawberries on top of the custard.",
+        "Brush the warmed strawberry jam over the sliced strawberries to create a shiny glaze.",
+        "Bake the tart in the preheated oven according to the pie crust package instructions, typically around 15-20 minutes or until the crust is golden brown.",
+        "Remove the tart from the oven and let it cool before serving.",
+        "Slice the strawberry custard tart and enjoy!"
+      ]
+    }
+  ],
+  "drinks": [
+    {
+      "id": "453289",
+      "name": "Mojito",
+      "ingredients": [
+        "2 ounces (60 ml) of white rum",
+        "1 ounce (30 ml) of fresh lime juice",
+        "2 teaspoons of granulated sugar",
+        "6-8 fresh mint leaves",
+        "Club soda or sparkling water",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "In a glass, muddle the mint leaves and sugar together to release the mint oils.",
+        "Add the fresh lime juice and muddle a bit more to dissolve the sugar.",
+        "Fill the glass with ice cubes and pour in the white rum.",
+        "Top off with club soda or sparkling water.",
+        "Stir gently to combine the ingredients.",
+        "Garnish with a sprig of fresh mint and a lime wedge, if desired.",
+        "Enjoy your refreshing mojito!"
+      ]
+    },
+    {
+      "id": "623411",
+      "name": "Piña Colada",
+      "ingredients": [
+        "2 ounces (60 ml) of white rum",
+        "4 ounces (120 ml) of pineapple juice",
+        "2 ounces (60 ml) of coconut cream",
+        "1 cup of ice cubes",
+        "Pineapple slices and maraschino cherries for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the white rum, pineapple juice, coconut cream, and ice cubes.",
+        "Blend until smooth and creamy.",
+        "Pour into a glass and garnish with pineapple slices and maraschino cherries.",
+        "Serve chilled and enjoy your tropical piña colada!"
+      ]
+    },
+    {
+      "id": "764219",
+      "name": "Margarita",
+      "ingredients": [
+        "2 ounces (60 ml) of tequila",
+        "1 ounce (30 ml) of fresh lime juice",
+        "1 ounce (30 ml) of triple sec",
+        "1 teaspoon of agave nectar or simple syrup",
+        "Salt for rimming the glass",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Rim the glass with salt by running a lime wedge around the rim and dipping it in salt.",
+        "In a shaker, combine the tequila, fresh lime juice, triple sec, agave nectar or simple syrup, and ice cubes.",
+        "Shake vigorously for about 15-20 seconds.",
+        "Fill the salt-rimmed glass with ice cubes and strain the margarita into the glass.",
+        "Garnish with a lime wedge.",
+        "Enjoy your classic margarita!"
+      ]
+    },
+    {
+      "id": "925631",
+      "name": "Old Fashioned",
+      "ingredients": [
+        "2 ounces (60 ml) of bourbon or rye whiskey",
+        "1 sugar cube or 1 teaspoon of granulated sugar",
+        "2-3 dashes of Angostura bitters",
+        "1-2 orange peel twists",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Place the sugar cube or granulated sugar in a glass.",
+        "Add the dashes of Angostura bitters and muddle together to dissolve the sugar.",
+        "Add a few ice cubes to the glass.",
+        "Pour in the bourbon or rye whiskey.",
+        "Stir gently to combine the ingredients.",
+        "Express the oils from the orange peel twists over the drink and drop them into the glass.",
+        "Enjoy your classic old fashioned!"
+      ]
+    },
+    {
+      "id": "235781",
+      "name": "Gin and Tonic",
+      "ingredients": [
+        "2 ounces (60 ml) of gin",
+        "4-6 ounces (120-180 ml) of tonic water",
+        "Lime wedges or slices for garnish",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "Fill a glass with ice cubes.",
+        "Pour in the gin.",
+        "Top off with tonic water.",
+        "Stir gently to mix the ingredients.",
+        "Garnish with lime wedges or slices.",
+        "Enjoy your refreshing gin and tonic!"
+      ]
+    }
+  ],
+  "milkshakes": [
+    {
+      "id": "789012",
+      "name": "Classic Vanilla Milkshake",
+      "ingredients": [
+        "2 cups (480 ml) of vanilla ice cream",
+        "1 cup (240 ml) of milk",
+        "1 teaspoon of vanilla extract",
+        "Whipped cream for topping",
+        "Maraschino cherry for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the vanilla ice cream, milk, and vanilla extract.",
+        "Blend until smooth and creamy.",
+        "Pour the milkshake into a glass.",
+        "Top with whipped cream and garnish with a maraschino cherry.",
+        "Serve immediately and enjoy this classic vanilla milkshake!"
+      ]
+    },
+    {
+      "id": "345678",
+      "name": "Strawberry Banana Milkshake",
+      "ingredients": [
+        "1 cup (240 ml) of milk",
+        "1 cup (150 grams) of frozen strawberries",
+        "1 ripe banana",
+        "2 tablespoons of honey",
+        "Vanilla ice cream (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the milk, frozen strawberries, banana, and honey.",
+        "Blend until smooth and creamy.",
+        "If desired, add a scoop of vanilla ice cream for extra creaminess.",
+        "Blend again until well combined.",
+        "Pour the milkshake into a glass.",
+        "Serve chilled and enjoy this refreshing strawberry banana milkshake!"
+      ]
+    },
+    {
+      "id": "123456",
+      "name": "Chocolate Peanut Butter Milkshake",
+      "ingredients": [
+        "2 cups (480 ml) of chocolate ice cream",
+        "1 cup (240 ml) of milk",
+        "2 tablespoons of peanut butter",
+        "Whipped cream for topping",
+        "Chocolate shavings for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the chocolate ice cream, milk, and peanut butter.",
+        "Blend until smooth and creamy.",
+        "Pour the milkshake into a glass.",
+        "Top with whipped cream and garnish with chocolate shavings.",
+        "Serve immediately and enjoy this indulgent chocolate peanut butter milkshake!"
+      ]
+    },
+    {
+      "id": "234567",
+      "name": "Cookies and Cream Milkshake",
+      "ingredients": [
+        "2 cups (480 ml) of cookies and cream ice cream",
+        "1 cup (240 ml) of milk",
+        "4-6 chocolate sandwich cookies",
+        "Whipped cream for topping",
+        "Crushed cookies for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the cookies and cream ice cream, milk, and chocolate sandwich cookies.",
+        "Blend until smooth and creamy.",
+        "Pour the milkshake into a glass.",
+        "Top with whipped cream and garnish with crushed cookies.",
+        "Serve immediately and enjoy this delicious cookies and cream milkshake!"
+      ]
+    },
+    {
+      "id": "567890",
+      "name": "Mint Chocolate Chip Milkshake",
+      "ingredients": [
+        "2 cups (480 ml) of mint chocolate chip ice cream",
+        "1 cup (240 ml) of milk",
+        "1/4 teaspoon of peppermint extract",
+        "Whipped cream for topping",
+        "Chocolate chips for garnish"
+      ],
+      "instructions": [
+        "In a blender, combine the mint chocolate chip ice cream, milk, and peppermint extract.",
+        "Blend until smooth and creamy.",
+        "Pour the milkshake into a glass.",
+        "Top with whipped cream and garnish with chocolate chips.",
+        "Serve immediately and enjoy this refreshing mint chocolate chip milkshake!"
+      ]
+    }
+  ],
+  "smoothies": [
+    {
+      "id": "479542",
+      "name": "Tropical Paradise Smoothie",
+      "ingredients": [
+        "1 cup (240 ml) of pineapple chunks",
+        "1 ripe banana",
+        "1/2 cup (120 ml) of coconut milk",
+        "1/2 cup (120 ml) of orange juice",
+        "1/2 cup (120 ml) of Greek yogurt",
+        "1 tablespoon of honey",
+        "Ice cubes (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the pineapple chunks, banana, coconut milk, orange juice, Greek yogurt, and honey.",
+        "Blend until smooth and creamy.",
+        "If desired, add ice cubes for a chilled and thicker consistency.",
+        "Blend again until well combined.",
+        "Pour the smoothie into a glass.",
+        "Serve chilled and enjoy this tropical paradise smoothie!"
+      ]
+    },
+    {
+      "id": "217854",
+      "name": "Berry Blast Smoothie",
+      "ingredients": [
+        "1 cup (150 grams) of mixed berries (strawberries, blueberries, raspberries)",
+        "1/2 cup (120 ml) of almond milk",
+        "1/2 cup (120 ml) of Greek yogurt",
+        "1 tablespoon of honey",
+        "1/2 teaspoon of chia seeds",
+        "Ice cubes (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the mixed berries, almond milk, Greek yogurt, honey, and chia seeds.",
+        "Blend until smooth and well combined.",
+        "If desired, add ice cubes for a chilled and thicker consistency.",
+        "Blend again until smooth.",
+        "Pour the smoothie into a glass.",
+        "Serve chilled and enjoy this refreshing berry blast smoothie!"
+      ]
+    },
+    {
+      "id": "908602",
+      "name": "Green Power Smoothie",
+      "ingredients": [
+        "1 cup (240 ml) of spinach leaves",
+        "1/2 ripe avocado",
+        "1 ripe banana",
+        "1 cup (240 ml) of almond milk",
+        "1 tablespoon of honey",
+        "1/2 teaspoon of matcha powder",
+        "Ice cubes (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the spinach leaves, avocado, banana, almond milk, honey, and matcha powder.",
+        "Blend until smooth and creamy.",
+        "If desired, add ice cubes for a chilled and thicker consistency.",
+        "Blend again until well combined.",
+        "Pour the smoothie into a glass.",
+        "Serve chilled and enjoy this nutritious green power smoothie!"
+      ]
+    },
+    {
+      "id": "135030",
+      "name": "Mango Madness Smoothie",
+      "ingredients": [
+        "1 cup (150 grams) of chopped mango",
+        "1/2 cup (120 ml) of orange juice",
+        "1/2 cup (120 ml) of coconut water",
+        "1/2 cup (120 ml) of Greek yogurt",
+        "1 tablespoon of lime juice",
+        "1 tablespoon of honey",
+        "Ice cubes (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the chopped mango, orange juice, coconut water, Greek yogurt, lime juice, and honey.",
+        "Blend until smooth and creamy.",
+        "If desired, add ice cubes for a chilled and thicker consistency.",
+        "Blend again until well combined.",
+        "Pour the smoothie into a glass.",
+        "Serve chilled and enjoy this mango madness smoothie!"
+      ]
+    },
+    {
+      "id": "421054",
+      "name": "Protein Power Smoothie",
+      "ingredients": [
+        "1 ripe banana",
+        "1 cup (240 ml) of almond milk",
+        "1/4 cup (30 grams) of vanilla protein powder",
+        "1 tablespoon of almond butter",
+        "1 tablespoon of chia seeds",
+        "1/2 teaspoon of cinnamon",
+        "Ice cubes (optional)"
+      ],
+      "instructions": [
+        "In a blender, combine the ripe banana, almond milk, vanilla protein powder, almond butter, chia seeds, and cinnamon.",
+        "Blend until smooth and well combined.",
+        "If desired, add ice cubes for a chilled and thicker consistency.",
+        "Blend again until smooth and creamy.",
+        "Pour the smoothie into a glass.",
+        "Serve chilled and enjoy this protein power smoothie!"
+      ]
+    }
+  ]
+}
