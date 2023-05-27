@@ -1,7 +1,7 @@
 {
   "cakes": [
     {
-      "id": "267891",
+      "id": "000001",
       "name": "Lemon Blueberry Cake",
       "ingredients": [
         "2 1/2 cups (315 grams) of all-purpose flour",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": "908172",
+      "id": "000002",
       "name": "Banana Bread Cake",
       "ingredients": [
         "2 cups (250 grams) of all-purpose flour",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "id": "543216",
+      "id": "000003",
       "name": "Coconut Cake",
       "ingredients": [
         "2 3/4 cups (345 grams) of cake flour",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "id": "123456",
+      "id": "000004",
       "name": "Chocolate Ganache Cake",
       "ingredients": [
         "2 cups (250 grams) of all-purpose flour",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "id": "789012",
+      "id": "000005",
       "name": "Red Velvet Cake",
       "ingredients": [
         "2 1/2 cups (315 grams) of cake flour",
@@ -165,7 +165,7 @@
   ],
   "frozen_treats": [
     {
-      "id": "234521",
+      "id": "000006",
       "name": "Strawberry Sorbet",
       "ingredients": [
         "2 cups (300 grams) of fresh strawberries, hulled and halved",
@@ -182,7 +182,7 @@
       ]
     },
     {
-      "id": "115329",
+      "id": "000007",
       "name": "Mango Popsicles",
       "ingredients": [
         "2 ripe mangoes, peeled and pitted",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "id": "356753",
+      "id": "000008",
       "name": "Cookies and Cream Ice Cream",
       "ingredients": [
         "2 cups (480 ml) of heavy cream",
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "id": "987654",
+      "id": "000009",
       "name": "Watermelon Granita",
       "ingredients": [
         "4 cups (600 grams) of cubed seedless watermelon",
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "id": "246810",
+      "id": "000010",
       "name": "Chocolate Dipped Frozen Bananas",
       "ingredients": [
         "4 ripe bananas",
@@ -261,7 +261,7 @@
   ],
   "puddings": [
     {
-      "id": "234521",
+      "id": "000011",
       "name": "Classic Vanilla Pudding",
       "ingredients": [
         "2 cups (480 ml) of whole milk",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "id": "115329",
+      "id": "000012",
       "name": "Chocolate Custard",
       "ingredients": [
         "2 cups (480 ml) of whole milk",
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "id": "356753",
+      "id": "000013",
       "name": "Banana Pudding",
       "ingredients": [
         "2 cups (480 ml) of whole milk",
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "id": "987654",
+      "id": "000014",
       "name": "Rice Pudding",
       "ingredients": [
         "1 cup (200 grams) of white rice",
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "id": "246810",
+      "id": "000015",
       "name": "Strawberry Custard Tart",
       "ingredients": [
         "1 pre-made pie crust",
@@ -392,7 +392,7 @@
   ],
   "drinks": [
     {
-      "id": "453289",
+      "id": "000016",
       "name": "Mojito",
       "ingredients": [
         "2 ounces (60 ml) of white rum",
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "id": "623411",
+      "id": "000017",
       "name": "Piña Colada",
       "ingredients": [
         "2 ounces (60 ml) of white rum",
@@ -430,7 +430,7 @@
       ]
     },
     {
-      "id": "764219",
+      "id": "000018",
       "name": "Margarita",
       "ingredients": [
         "2 ounces (60 ml) of tequila",
@@ -450,7 +450,7 @@
       ]
     },
     {
-      "id": "925631",
+      "id": "000019",
       "name": "Old Fashioned",
       "ingredients": [
         "2 ounces (60 ml) of bourbon or rye whiskey",
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "id": "235781",
+      "id": "000020",
       "name": "Gin and Tonic",
       "ingredients": [
         "2 ounces (60 ml) of gin",
@@ -490,7 +490,7 @@
   ],
   "milkshakes": [
     {
-      "id": "789012",
+      "id": "000021",
       "name": "Classic Vanilla Milkshake",
       "ingredients": [
         "2 cups (480 ml) of vanilla ice cream",
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "id": "345678",
+      "id": "000022",
       "name": "Strawberry Banana Milkshake",
       "ingredients": [
         "1 cup (240 ml) of milk",
@@ -527,7 +527,7 @@
       ]
     },
     {
-      "id": "123456",
+      "id": "000023",
       "name": "Chocolate Peanut Butter Milkshake",
       "ingredients": [
         "2 cups (480 ml) of chocolate ice cream",
@@ -545,7 +545,7 @@
       ]
     },
     {
-      "id": "234567",
+      "id": "000024",
       "name": "Cookies and Cream Milkshake",
       "ingredients": [
         "2 cups (480 ml) of cookies and cream ice cream",
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "id": "567890",
+      "id": "000025",
       "name": "Mint Chocolate Chip Milkshake",
       "ingredients": [
         "2 cups (480 ml) of mint chocolate chip ice cream",
@@ -583,7 +583,7 @@
   ],
   "smoothies": [
     {
-      "id": "479542",
+      "id": "000026",
       "name": "Tropical Paradise Smoothie",
       "ingredients": [
         "1 cup (240 ml) of pineapple chunks",
@@ -604,7 +604,7 @@
       ]
     },
     {
-      "id": "217854",
+      "id": "000027",
       "name": "Berry Blast Smoothie",
       "ingredients": [
         "1 cup (150 grams) of mixed berries (strawberries, blueberries, raspberries)",
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "id": "908602",
+      "id": "000028",
       "name": "Green Power Smoothie",
       "ingredients": [
         "1 cup (240 ml) of spinach leaves",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "id": "135030",
+      "id": "000029",
       "name": "Mango Madness Smoothie",
       "ingredients": [
         "1 cup (150 grams) of chopped mango",
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "id": "421054",
+      "id": "000030",
       "name": "Protein Power Smoothie",
       "ingredients": [
         "1 ripe banana",
