@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ParentComponent } from './parent/parent.component';
-import { ChildComponent } from './child/child.component';
+import { BeverageRecipesComponent } from './components/beverage-recipes/beverage-recipes.component';
+import { SharedComponentsModule } from 'src/app/shared/components/shared-components.module';
 
 @NgModule({
-  declarations: [ParentComponent, ChildComponent],
-  exports: [ParentComponent, ChildComponent],
-  imports: [CommonModule],
+  declarations: [BeverageRecipesComponent],
+  exports: [BeverageRecipesComponent],
+  imports: [CommonModule, SharedComponentsModule],
 })
 export class BeveragesModule {}

@@ -1,6 +1,6 @@
-import { CategoryType } from './../types';
+import { CategoryType } from '../types';
 import { concatenateArrays } from './concat.arrays';
-import recipes from '../../assets/recipes.json';
+import recipes from '../../../assets/recipes.json';
 
 const categories: Array<CategoryType> = [
   {

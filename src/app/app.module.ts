@@ -7,8 +7,8 @@ import { AppComponent } from './app.component';
 import {
   DessertsModule,
   BeveragesModule,
-  DessertsComponent,
-  BeveragesComponent,
+  DessertRecipes,
+  BeverageRecipes,
 } from './features';
 
 @NgModule({
@@ -21,11 +21,11 @@ import {
     RouterModule.forChild([
       {
         path: 'desserts/:id',
-        component: DessertsComponent,
+        component: DessertRecipes,
       },
       {
         path: 'beverages/:id',
-        component: BeveragesComponent,
+        component: BeverageRecipes,
       },
     ]),
   ],
