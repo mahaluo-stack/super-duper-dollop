@@ -1,0 +1,8 @@
+<div style="display: flex;">
+    <h1 style="padding: 0; margin: 2vh auto; color: white;">
+        {{ (apiRes ? apiRes.name : 'fetching recipe.. ') }}
+    </h1>
+</div>
+<div class="wrapper">
+    <app-recipe-child [apiRes]="apiRes" [loading]="apiRes ? false : true"></app-recipe-child>
+</div>

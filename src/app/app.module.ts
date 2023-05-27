@@ -4,28 +4,31 @@ import { RouterModule } from '@angular/router';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { DessertsModule, DrinksModule, DessertsComponent, DrinksComponent } from './features';
+import {
+  DessertsModule,
+  BeveragesModule,
+  DessertRecipes,
+  BeverageRecipes,
+} from './features';
 
 @NgModule({
-  declarations: [
-    AppComponent  
-  ],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
     DessertsModule,
-    DrinksModule,
+    BeveragesModule,
     RouterModule.forChild([
       {
         path: 'desserts/:id',
-        component: DessertsComponent
+        component: DessertRecipes,
       },
       {
-        path: 'drinks/:id',
-        component: DrinksComponent
-      }
-    ])
+        path: 'beverages/:id',
+        component: BeverageRecipes,
+      },
+    ]),
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule {}

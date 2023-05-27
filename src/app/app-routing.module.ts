@@ -1,8 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { RedirectGuard } from './guards/redirect.guard';
-import { ParentComponent as DessertsComponent } from './features/desserts/parent/parent.component';
-import { ParentComponent as DrinksComponent } from './features/drinks/parent/parent.component';
+import { RedirectGuard } from './shared/guards/redirect.guard';
+import { DessertRecipes, BeverageRecipes } from './features';
 
 const routes: Routes = [
   {
@@ -12,18 +11,18 @@ const routes: Routes = [
     children: [
       {
         path: 'desserts/:id',
-        component: DessertsComponent
+        component: DessertRecipes,
       },
       {
-        path: 'drinks/:id',
-        component: DrinksComponent
-      }
-    ]
-  }
+        path: 'beverages/:id',
+        component: BeverageRecipes,
+      },
+    ],
+  },
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
